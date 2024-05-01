@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infinit Sistem</string>
+    <string name="TvCabesalho">IS-Play</string>
+    <string name="TVInformativo">Digite os Números Sorteados.</string>
+    <string name="BtnOK">Inserir</string>
+    <string name="TvInformativoLista">Lista de Números mais Provaveis de virem no Proxímo sorteio.</string>
+</resources>
